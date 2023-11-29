@@ -2,7 +2,7 @@ using TriangleLibrary;
 
 namespace Tests;
 
-public class UnitTest1
+public class TriangleTest
 {
     [Fact]
     public void DetermineTriangleType_RightAngled_ReturnsRight()
